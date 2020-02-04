@@ -21,3 +21,26 @@
     width:600px;
     height:600px;
 }
+.burger-title{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+.burger-price {
+    color:red;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+.burger-button {
+    background-color: orange;
+    border: none;
+    width: 316px;
+    height: 50px;
+    font-weight: bold;
+    color:white;
+    font-size: 30px;
+    border-radius: 20px;
+}
+.burger-button:hover{
+    background-color: green;
+}
