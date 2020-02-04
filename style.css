@@ -13,6 +13,7 @@ nav {
   margin-left: 20px;
   text-decoration: none;
   color: white;
+  font-size: 30px;
 }
 
 .logo {
@@ -32,8 +33,8 @@ nav {
 .aboutus-area {
   text-align: center;
   margin: 50px 100px 0 100px;
-  padding-bottom: 300px;
-  background-image: url(https://company.bk.com/sites/all/themes/custom/bk_theme/img/bg/aboutBK-bg.png);
+  padding-bottom: 100px;
+  /* background-image: url(https://company.bk.com/sites/all/themes/custom/bk_theme/img/bg/aboutBK-bg.png); */
 }
 .header {
   font-size: 70px;
@@ -48,9 +49,20 @@ footer {
   background-color: #522e1deb;
   color: white;
   padding: 20px;
+  position: relative;
+  /* bottom:0; */
+  width:100%
 }
 
 footer a {
   color: white;
   text-decoration: none;
+}
+.row {
+    display:flex;
+    justify-content: space-around;
+}
+.background {
+  background: url(https://company.bk.com/sites/all/themes/custom/bk_theme/img/bg/aboutBK-bg.png);
+  height:700px;
 }

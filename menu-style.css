@@ -1,0 +1,23 @@
+.row{
+    margin-bottom:30px;
+}
+
+.item{
+    text-align: center;
+}
+
+.googlemap-area{
+    background-color: #F3D7C0 ;
+    text-align: center;
+    display:flex;
+    justify-content: space-around;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.card {
+    border: 5px solid #522e1deb;
+    background-color: white;
+    border-radius: 20px;
+    width:600px;
+    height:600px;
+}
