@@ -30,6 +30,7 @@ nav {
   line-height: 80px;
   text-align: center;
   font-size: 50px;
+  margin-bottom: 30px;
 }
 .aboutus-area {
   text-align: center;
@@ -41,11 +42,12 @@ nav {
   /* background-image: url(https://company.bk.com/sites/all/themes/custom/bk_theme/img/bg/aboutBK-bg.png); */
 }
 .header {
-  font-size: 70px;
+  font-size: 60px;
+  padding-bottom: 30px;
 
 }
-.bottom {
-  margin-bottom: 30px;
+.contents {
+  margin-bottom: 50px;
 }
 
 footer {
@@ -73,7 +75,7 @@ footer a {
 }
 
 body {
-  font-family: Sans-serif;
+  font-family: sans-serif
 }
 
 .container {
