@@ -1,46 +1,46 @@
-.row{
-    margin-bottom:30px;
+.row {
+  margin-bottom: 30px;
 }
 
-.item{
-    text-align: center;
+.item {
+  text-align: center;
 }
 
-.googlemap-area{
-    background-color: #F3D7C0 ;
-    text-align: center;
-    display:flex;
-    justify-content: space-around;
-    padding-bottom: 30px;
-    padding-top: 30px;
+.googlemap-area {
+  background-color: #f3d7c0;
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+  padding-bottom: 30px;
+  padding-top: 30px;
 }
 .card {
-    border: 5px solid #522e1deb;
-    background-color: white;
-    border-radius: 20px;
-    width:600px;
-    height:600px;
+  border: 5px solid #522e1deb;
+  background-color: white;
+  border-radius: 20px;
+  width: 600px;
+  height: 600px;
 }
-.burger-title{
-    margin-top: 10px;
-    margin-bottom: 10px;
-    font-weight: bold;
+.burger-title {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-weight: bold;
 }
 .burger-price {
-    color:red;
-    margin-bottom: 10px;
-    font-weight: bold;
+  color: red;
+  margin-bottom: 10px;
+  font-weight: bold;
 }
 .burger-button {
-    background-color: orange;
-    border: none;
-    width: 316px;
-    height: 50px;
-    font-weight: bold;
-    color:white;
-    font-size: 30px;
-    border-radius: 20px;
+  background-color: orange;
+  border: none;
+  width: 316px;
+  height: 50px;
+  font-weight: bold;
+  color: white;
+  font-size: 30px;
+  border-radius: 20px;
 }
-.burger-button:hover{
-    background-color: green;
+.burger-button:hover {
+  background-color: green;
 }
