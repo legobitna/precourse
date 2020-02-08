@@ -71,7 +71,7 @@ footer a {
   justify-content: space-around;
 }
 .background {
-  background: url(https://company.bk.com/sites/all/themes/custom/bk_theme/img/bg/aboutBK-bg.png);
+  background: url("./aboutBK-bg.png");
   height: 700px;
 }
 
